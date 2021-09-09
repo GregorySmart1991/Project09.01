@@ -33,6 +33,10 @@ main {
     align-items: center;
 }
 
+form {
+    width: 500px;
+}
+
 .form-title {
     color: #305070;
     font-weight: 500;
